@@ -1,5 +1,5 @@
 # 42 C++ Pool
-UNIT Factory (School 42) qualifying stage.
+UNIT Factory (School 42) C++ qualifying stage.
 
 The project was carried out within a two weeks. <br>
 Each day of the pool is dedicated to specific topics. <br>
